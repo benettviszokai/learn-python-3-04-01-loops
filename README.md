@@ -1,2 +1,4 @@
-# learn-python-3-04-01-loops
-Codecademy - Learn Python 3 - Loops - Loops
+# Loops
+### Codecademy - Learn Python 3 - Loops - Loops
+
+This is a review of the 'Loops' lesson.
